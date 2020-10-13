@@ -1,1 +1,1 @@
-# finacne-news-and-data-analysis-
+# Finance-News-and-Data-Analysis
